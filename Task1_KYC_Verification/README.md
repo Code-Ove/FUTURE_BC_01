@@ -22,9 +22,6 @@ Transaction & trade history
 
 (These are my proof of work — all personal data hidden for privacy)
 
-Task1_KYC_Verification/Screenshot 2025-10-06 142319.png
-Task1_KYC_Verification/Screenshot 2025-10-06 142139.png
-Task1_KYC_Verification/Screenshot 2025-10-06 142114.png
 
 
 
